@@ -1,6 +1,10 @@
 # Computerized-Accounting
 
 Computerized Accounting is an MERN Stack application designed to handle REST API requests. It uses PostgreSQL as database storage. The User Interface is designed on React JS.
+The project allows you to:
+- Create `Accounts`.
+- Perform `General Enteries` on accounts.
+- Visualize the financial statements based on your transactions: `Income Statement`, `Trial Balance`, `Balance Sheet` and `Owner Equity`.
 
 ## Prerequisites
 
@@ -59,4 +63,5 @@ To start the React App run:
 cd frontend
 npm start
 ```
-"# Computerized-Accounting" 
+
+## Explore and visualize the concept of computerized accounting.
