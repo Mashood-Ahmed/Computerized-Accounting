@@ -7,17 +7,9 @@ Computerized Accounting is an MERN Stack application designed to handle REST API
 - Node.js and npm should be installed. You can download them from [here](https://nodejs.org/).
 - PostgreSQL should be installed and running. You can download it from [here](https://www.postgresql.org/download/).
 
-## Install dependencies
-
-To install all required dependencies, run:
-
-```bash
-npm install
-```
-
 ## Required Credentials
 
-Open `.env` file in the root folder to enter the following as per local setup:
+Create `.env` file in the root folder and insert the following variables as per local setup:
 
 1. `PORT`: A non-occupied port on the local system to run the application.
 2. `JWT_SECRET`: Setup a secret key for JWT Authentication Middleware.
@@ -32,6 +24,11 @@ Open `.env` file in the root folder to enter the following as per local setup:
 Create a PostgreSQL database.
 
 # Running the Backend Application
+Install the dependencies by running:
+
+```bash
+npm install
+```
 
 To start the application, run:
 
