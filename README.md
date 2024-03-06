@@ -1,4 +1,4 @@
-"# Computerized-Accounting"
+# Computerized-Accounting
 
 Computerized Accounting is an MERN Stack application designed to handle REST API requests. It uses PostgreSQL as database storage. The User Interface is designed on React JS.
 
